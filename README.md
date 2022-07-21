@@ -20,6 +20,11 @@ I would love to:
   * Be Mentored
   * Learn more
 
+Where to find me
+ * Here
+ * [TikTok](https://www.https://www.tiktok.com/@obind)🎵
+ * [Twitter](https://www.twitter.com/obind_)🐦
+ * [Email](kennethballen251@gmai.com)📫
 
 <!--
 **obind/obind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
