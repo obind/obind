@@ -1,17 +1,25 @@
-### Hi there 👋
+### Hi, my name is Kenneth👋
 
-Born in Halle(West), Germany 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-Living in Germany NRW
-Loves Technology 🖨
-Firefighter 🚒
-Mildly Active 🏃‍♂
+About me
+  * Born in Halle(West), Germany 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+  * Living in Germany NRW
+  * Loves Technology 🖨
+  * Firefighter 🚒
+  * Mildly Active 🏃‍♂
 
 
 Career & Other Fun Stuff 
- * Electrician for industrial engineeringe ⚡
- * Loves Astronomie 🌌
- * Content Creation 🧠
- * Looking to improve my programming skills 👨‍🏫
+  * Electrician for industrial engineeringe ⚡
+  * Loves Astronomie 🌌
+  * Content Creation 🧠
+  * Looking to improve my programming skills 👨‍🏫
+
+I would love to:
+  * Talk Tech
+  * Talk other awesome things
+  * Be Mentored
+  * Learn more
+
 
 <!--
 **obind/obind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
