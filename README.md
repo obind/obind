@@ -1,6 +1,6 @@
-### Hi, my name is Kenneth👋
+# Hi, my name is Kenneth👋
 
-About me
+## About me
   * Born in Halle(West), Germany 🏴󠁧󠁢󠁳󠁣󠁴󠁿
   * Living in Germany NRW
   * Loves Technology 🖨
@@ -8,19 +8,19 @@ About me
   * Mildly Active 🏃‍♂
 
 
-Career & Other Fun Stuff 
+## Career & Other Fun Stuff 
   * Electrician for industrial engineeringe ⚡
   * Loves Astronomie 🌌
   * Content Creation 🧠
   * Looking to improve my programming skills 👨‍🏫
 
-I would love to:
+## I would love to:
   * Talk Tech
   * Talk other awesome things
   * Be Mentored
   * Learn more
 
-Where to find me
+## Where to find me
  * Here
  * [TikTok](https://www.https://www.tiktok.com/@obind)🎵
  * [Twitter](https://www.twitter.com/obind_)🐦
