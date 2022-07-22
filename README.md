@@ -21,7 +21,7 @@
   * Learn more
 
 ## Where to find me
- * [Here] (https://github.com/obind) 👨‍💻
+ * [Here](https://github.com/obind) 👨‍💻
  * [TikTok](https://www.https://www.tiktok.com/@obind)🎵
  * [Twitter](https://www.twitter.com/obind_)🐦
  * [Email](kennethballen251@gmai.com)📫
