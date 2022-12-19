@@ -21,10 +21,11 @@
   * Learn more
 
 ## Where to find me
+ * [Webiste](https://kennethballen.de)🌐
  * [Here](https://github.com/obind) 👨‍💻
  * [TikTok](https://www.https://www.tiktok.com/@obind)🎵
  * [Twitter](https://www.twitter.com/obind_)🐦
- * [Email](kennethballen251@gmai.com)📫
+ * [Email](Kontakt@kennethballen.de)📫
 
 <!--
 **obind/obind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
