@@ -2,7 +2,7 @@
 
 <h2>🚀 About me</h2>
 <ul>
-  <li>🌍 Born in Halle(West), Germany</li>
+  <li>🌍 Born Germany</li>
   <li>🏠 Living in Germany NRW</li>
   <li>💻 Loves Technology</li>
   <li>🚒 Firefighter</li>
